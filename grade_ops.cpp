@@ -1,4 +1,5 @@
 #include "grade_ops.h"
+//grading criteria and Gpa tracker
 
 void gradeManagementMenu() {
     int choice;
