@@ -1,4 +1,5 @@
 #include "course_ops.h"
+//course enrollment and credit tracking
 
 void courseManagementMenu() {
     int choice;
