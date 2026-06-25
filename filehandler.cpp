@@ -1,4 +1,5 @@
 #include "filehandler.h"
+//This work is all done by C++ basic
 
 
 bool saveStudentToFile(const Student& student) {
